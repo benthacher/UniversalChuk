@@ -12,3 +12,4 @@ An Arduino library for interfacing with nunchuk peripherals.
 - [ ] Clean up #defines
 - [ ] Fix issue with missing byte on specific Guitar Hero controllers
 - [ ] Add support for more controllers
+- [ ] Add examples directory with example sketchs
